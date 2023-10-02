@@ -1,0 +1,253 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fundo",
+				"fundo-arredondamento"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ar",
+				"area-lateral"
+			],
+			[
+				"are",
+				"area-lateral"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/bruno/Documents/WEB 2.0/chale-hotel/index.html",
+		"/C/Users/bruno/Documents/WEB 2.0/chale-hotel/css/estilo.css",
+		"/C/Users/bruno/Documents/WEB 2.0/noticias-cidade/index.html",
+		"/C/Users/bruno/Documents/WEB 2.0/noticias-cidade/css/estilo.css",
+		"/C/Users/bruno/Documents/WEB 2.0/noticias-cidade/nova-legislacao.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/arredondamento.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/css/estilo10.css",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/css/estilo101.css",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/arredondamento-estudo.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/formularios2.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/css/estilo9.css",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/formularios.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/css/estilo8.css",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/css/estilo7.css",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/tabelas.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/layout.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/css/estilo6.css",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/index.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/sobre.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/servicos.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/css/estilo5.css",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/css/estilo4.css",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/contato.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/noticias.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/estudar.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/css/estilo3.css",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/navegacao-vertical.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/imagens/menu.png",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/heranca.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/css/estilo2.css",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/css/estilo.css",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/seletores.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/css/estilo01.css",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/seletores01.html",
+		"/C/Users/bruno/Documents/WEB 2.0/css3 intermediario e avancado/css/seletores01.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoTecBlog/index.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoTecBlog/css/estilo.css",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3 intermediario/links.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3 intermediario/sobrepondo-elementos.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3 intermediario/posicionamentos.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3 intermediario/elementos-inline-block.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3 intermediario/elementos-flutuantes-pratica.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3 intermediario/elementos-flutuantes.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3 intermediario/estilo.css",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3 intermediario/modelo-caixa.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoAnnaBella/estilo.css",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoAnnaBella/index.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoAnnaBella/contato.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3/pagina1.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3/pagina2.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3/estilo.css",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3/cor-imagem-fundo.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3/estilos-textos.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3/cor-imagem-fundo",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3/fontes-cores.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3/tamanho-textos.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3/div-span.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3/bordas.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3/inline_style.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoCSS3/classes-ids.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoFinalHtml/index.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoFinalHtml/contato.html",
+		"/C/Users/bruno/Documents/WEB 2.0/ProjetoFinalHtml/quem-somos.html",
+		"/C/Users/bruno/Documents/WEB 2.0/Primeiro Projeto/index.html",
+		"/C/Users/bruno/Documents/WEB 2.0/Primeiro Projeto/formulario.html",
+		"/C/Users/bruno/Documents/WEB 2.0/Primeiro Projeto/contato.html",
+		"/C/Users/bruno/Documents/WEB 2.0/Primeiro Projeto/projeto.html",
+		"/C/Users/bruno/Desktop/index.php",
+		"/C/Users/bruno/Documents/aula pyhton/aula01.py",
+		"/C/Users/bruno/Desktop/teste.py"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t\t\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
